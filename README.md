@@ -10,8 +10,8 @@ Screenshots
 -------------
 <p>
 	Client<br>
-	![main](https://github.com/chrisjin/MyResources/blob/master/H2O/mainpanel.png)
+	![main](https://github.com/chrisjin/MyResources/blob/master/QtMessager/mainpanel.png)
 <p>
 	Server<br>
-	![server](https://github.com/chrisjin/MyResources/blob/master/H2O/server.png)
+	![server](https://github.com/chrisjin/MyResources/blob/master/QtMessager/server.png)
  
